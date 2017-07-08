@@ -15,58 +15,55 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\problem solving\problem solving\bitgame.cpp">
+    <ClCompile Include="balloon.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\broadcast2.cpp">
+    <ClCompile Include="bitgame.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\brodcast.cpp">
+    <ClCompile Include="broadcast2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\camera.cpp">
+    <ClCompile Include="camera.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\capital.cpp">
+    <ClCompile Include="capital.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\card.cpp">
+    <ClCompile Include="card_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\card_2.cpp">
+    <ClCompile Include="cheif.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\fancake1.cpp">
+    <ClCompile Include="fancake1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\fancake2.cpp">
+    <ClCompile Include="fancake2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\finger.cpp">
+    <ClCompile Include="finger.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\hanoi.cpp">
+    <ClCompile Include="hanoi.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\ladder.cpp">
+    <ClCompile Include="ladder.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\multiple.cpp">
+    <ClCompile Include="multiple.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\ordertree.cpp">
+    <ClCompile Include="ordertree.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\singer.cpp">
+    <ClCompile Include="singer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\submarine.cpp">
+    <ClCompile Include="submarine.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\thief.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\problem solving\problem solving\travel.cpp">
+    <ClCompile Include="travel.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
